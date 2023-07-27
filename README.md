@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<script src="https://tryhackme.com/badge/599015"></script>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehnls&hide=javascript,html)
 <!--
