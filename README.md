@@ -86,6 +86,7 @@ Busco oportunidades para atuar e evoluir em áreas como:
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/jefersonnolascosousa/
+- tryhackme: https://tryhackme.com/p/controolers
 
 
 
